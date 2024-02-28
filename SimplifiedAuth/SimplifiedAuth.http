@@ -1,0 +1,6 @@
+@SimplifiedAuth_HostAddress = http://localhost:5088
+
+GET {{SimplifiedAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
